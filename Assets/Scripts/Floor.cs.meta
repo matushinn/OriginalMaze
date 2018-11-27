@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5417787d6824f9f4cb4b91fdaf0d1828
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audio_bgm: {fileID: 8300000, guid: 0a307d80c1c2246448337c0bed040a16, type: 3}
+  - audio_bird: {fileID: 8300000, guid: 276be05cf9c14b949b014ace4154e44a, type: 3}
+  - audio_navi: {fileID: 8300000, guid: b4ce3df71ab22604bb703a4f3c0aa932, type: 3}
+  - audio_warning: {fileID: 8300000, guid: 02af0280b70432742a63146ce9f2ed5b, type: 3}
+  - audio_distance: {fileID: 8300000, guid: b57de585414e1434c81526c29c56a9c2, type: 3}
+  - audio_goal: {fileID: 8300000, guid: d4fe93cf35b89654da3e6be60404477b, type: 3}
+  - audio_break: {fileID: 8300000, guid: a86629edb690dfc489cb79124e617089, type: 3}
+  - audio_damage: {fileID: 8300000, guid: 0600f6ec288dcd448a0a9827bc2aed4c, type: 3}
+  - blockPreb: {fileID: 1928828992942754, guid: ba19d6ce6e06dbe4d82d9afc44be9b4a,
+      type: 2}
+  - playerPrefab: {fileID: 1868845858354948, guid: a66e2acdbaba14e40978e84a4334a429,
+      type: 2}
+  - itemBreakWall: {instanceID: 0}
+  - textPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
